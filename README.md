@@ -8,7 +8,7 @@
 ### Team Name: team
 
 ### Team Members
-- Team Lead: Biveena Prasad - [College]
+- Team Lead: [Biveena Prasad](https://github.com/BiveenaPrasad) - [College]
 - Member 2: [Abin K J](https://github.com/abin2907) - [College]
 
 ### Project Description
