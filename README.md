@@ -9,7 +9,7 @@
 
 ### Team Members
 - Team Lead: Biveena Prasad - [College]
-- Member 2: Abin K J - [College]
+- Member 2: [Abin K J](https://github.com/abin2907) - [College]
 
 ### Project Description
 An interactive gossip chatbot with a built-in rumor radar visualization to map out the juiciest gossip network!
